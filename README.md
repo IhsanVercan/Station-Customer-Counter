@@ -1,3 +1,2 @@
-# Station-Customer-Counter
-Website Link:
-https://stirring-bublanina-f77422.netlify.app/
+# Station-Customer-Counter. Website: https://stirring-bublanina-f77422.netlify.app/
+
